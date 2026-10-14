@@ -1,0 +1,4 @@
+user login with google account
+
+a web app that allow user (manage by admin) to log medical record (what, when it happened) and the treatment received ( doctor appointment, doctor assessment, notes, memo, cost), medicine receive ( name, function, usage, frequency, cost).
+
